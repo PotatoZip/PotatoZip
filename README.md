@@ -19,6 +19,8 @@ I’m constantly exploring and learning programming, with a particular focus on 
 - Automation
 - Testing
 - Clean code<br>
+
+
 **Python Frameworks:**
 - Django
 ---

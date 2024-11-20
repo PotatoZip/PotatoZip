@@ -8,19 +8,20 @@ I’m constantly exploring and learning programming, with a particular focus on 
 
 ### 🛠️ My Tech Stack:
 
-Languages: Python, C / C++, SQL<br>
-Tools: Git, Docker, Linux, VS Code<br> 
-Interests: Backend development, Automation, Electronics
+- Languages: Python, C / C++, SQL<br>
+- Tools: Git, Docker, Linux, VS Code<br> 
+- Interests: Backend development, Automation, Electronics
+
 ---
 ### 🌱 Currently Growing In:
 
-Software Development Practices: 
+**Software Development Practices:** 
 - Automation
 - Testing
 - Clean code<br>
-Python Frameworks: 
+**Python Frameworks:**
 - Django
 ---
 ### Have a nice day 😄
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=PotatoZip&color=blue)

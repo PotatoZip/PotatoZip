@@ -9,7 +9,7 @@ I’m constantly exploring and learning programming, with a particular focus on 
 ### 🛠️ My Tech Stack:
 
 - Languages: Python, C / C++, Java, SQL, HTML<br>
-- Tools: Git, Docker, Linux, VS Code, JetBrains IDEs<br> 
+- Tools: Git, Docker, Linux, JIRA, VS Code, JetBrains IDEs<br> 
 - Interests: Backend development, Automation, Electronics
 
 ---
@@ -20,8 +20,9 @@ I’m constantly exploring and learning programming, with a particular focus on 
 - Testing
 - Clean code<br>
 
-**Python Frameworks:**
+**Frameworks:**
 - Django
+- React
 ---
 ### Have a nice day 😄
 
